@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+celery
+redis
+langchain
+openai
+python-dotenv

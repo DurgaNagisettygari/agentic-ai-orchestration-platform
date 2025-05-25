@@ -1,0 +1,6 @@
+llm:
+  provider: openai
+  model: gpt-4
+memory:
+  provider: faiss
+  dimension: 768
